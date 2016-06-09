@@ -54,6 +54,10 @@ int main()
         case 17:
             ejercicio17();
             break;
+
+        case 20:
+            ejercicio20();
+            break;
     }
 
 }

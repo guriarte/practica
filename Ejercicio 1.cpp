@@ -6,7 +6,7 @@ void ejercicio1()
 {
     int a, b;
 
-    cout << "Ingrese el número A: " << endl;
+    cout << "Ingrese el numero A: " << endl;
     cin >> a;
     cout << "Ingrese el numero B: " << endl;
     cin >> b;

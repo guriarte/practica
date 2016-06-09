@@ -14,3 +14,4 @@ void ejercicio10();
 void ejercicio13();
 void ejercicio16();
 void ejercicio17();
+void ejercicio20();
