@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1465054231 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/main.cpp
+	"funciones.h"
+
+1464908421 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 1.cpp
+	"funciones.h"
+
+1465054231 /home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/funciones.h
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1464822989 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 2.cpp
+	"funciones.h"
+
+1465010927 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 3.cpp
+	"funciones.h"
+
+1464912239 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 16.cpp
+	"funciones.h"
+
+1465011484 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 4.cpp
+	"funciones.h"
+
+1465012391 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 5.cpp
+	"funciones.h"
+
+1465018048 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 7.cpp
+	"funciones.h"
+
+1465020056 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 8.cpp
+	"funciones.h"
+
+1465051727 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 10.cpp
+	"funciones.h"
+
+1465053545 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 13.cpp
+	"funciones.h"
+
+1465054307 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 17.cpp
+	"funciones.h"
+
